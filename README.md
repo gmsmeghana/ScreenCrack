@@ -1,8 +1,9 @@
 # ScreenCrack
 We first start by setting up the docker environment
 ![image](https://github.com/user-attachments/assets/23d07d3e-42ca-4b46-aba0-224f7ea319f6)
-Next the Docker build command reads the instruction in the docker file to create a custom docker image.![image](https://github.com/user-attachments/assets/f41b7851-215e-4421-b1e9-62ed2ee9a4e6)
+![image](https://github.com/user-attachments/assets/1b186676-c632-4aeb-ad36-718e86028af5)
 
+[image](https://github.com/user-attachments/assets/f41b7851-215e-4421-b1e9-62ed2ee9a4e6)
 Next, the data from the server is sent to the local host by using docker, and from there, we start exploiting the data. This exploitation is done by nip. which allows us to map any ip address. After the hosting is done, we generate the payloads from the source code and push them to the local host.
 ![image](https://github.com/user-attachments/assets/65924498-a73d-4571-9346-773df20b53c2)
 ![image](https://github.com/user-attachments/assets/d215fb3d-a866-4c65-984d-d9b3207a0135)
